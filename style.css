@@ -39,6 +39,11 @@ h1 {
     width: 400px;
 }
 
+h2 {
+    width: 1100px;
+    margin: 0 auto;
+}
+
 .logo {
     @font-face {
         font-family: Roboto-Black;
